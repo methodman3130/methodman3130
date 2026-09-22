@@ -14,11 +14,12 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full-Stack Web Developer in progress**, focused on building practical, responsive, and user-friendly web applications — and increasingly on the data and AI layer underneath them.
+I'm on learning path to increase my confidence with **Full-Stack Web Development - in progress**, focused on building practical, responsive, and user-friendly web applications — and increasingly on the data and AI layer underneath them.
 
-- 🔭 Currently building through the **MSTCONNECT PH Full-Stack Web Development Intensive Bootcamp**
+- 🔭 Currently learning intensive web dev stack experience through **MSTCONNECT PH Full-Stack Web Development Intensive Bootcamp**
+- 🔭 Finished intensive web dev stack experience through **PenBrothers Academy Web Development Intensive Bootcamp**
 - 🌱 Strengthening **JavaScript, React, Vue, Python, and database design** through hands-on projects
-- 🧠 Exploring **machine learning, deep learning, and generative AI** and how they fit into real applications
+- 🧠 Exploring **IOT, machine learning, deep learning, and generative AI** and how they fit into real applications
 - 🎯 Goal: ship projects where the frontend, the backend, and the model all talk to each other properly
 
 ---
